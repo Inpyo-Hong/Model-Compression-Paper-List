@@ -1,4 +1,4 @@
-# Vision-Model-Compression-Paper-List
+# Model-Compression-Paper-List (Quantization)
 
 ## Model Compression
 - Hinton, Geoffrey. "Distilling the Knowledge in a Neural Network." arXiv preprint arXiv:1503.02531 (2015).
