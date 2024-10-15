@@ -40,3 +40,21 @@
 ### Model Training (Zero-Shot Quantization)
 - Guo, Cong, et al. "Squant: On-the-fly data-free quantization via diagonal hessian approximation." arXiv preprint arXiv:2202.07471 (2022).
 - Choi, Kanghyun, et al. "It's all in the teacher: Zero-shot quantization brought closer to the teacher." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
+- 
+
+
+
+
+
+## LLM Quantization
+- Dettmers, Tim, et al. "Gpt3. int8 (): 8-bit matrix multiplication for transformers at scale." Advances in Neural Information Processing Systems 35 (2022): 30318-30332.
+- Yao, Zhewei, et al. "Zeroquant: Efficient and affordable post-training quantization for large-scale transformers." Advances in Neural Information Processing Systems 35 (2022): 27168-27183.
+- Wu, Xiaoxia, et al. "Understanding int4 quantization for language models: latency speedup, composability, and failure cases." International Conference on Machine Learning. PMLR, 2023.
+- Liu, Zirui, et al. "Kivi: A tuning-free asymmetric 2bit quantization for kv cache." arXiv preprint arXiv:2402.02750 (2024).
+- Zhang, Cheng, et al. "LQER: Low-Rank Quantization Error Reconstruction for LLMs." arXiv preprint arXiv:2402.02446 (2024).
+- Huang, Wei, et al. "Billm: Pushing the limit of post-training quantization for llms." arXiv preprint arXiv:2402.04291 (2024).
+- Guo, Jinyang, et al. "Compressing large language models by joint sparsification and quantization." Forty-first International Conference on Machine Learning. 2024.
+- Yao, Zhewei, et al. "Exploring post-training quantization in llms from comprehensive study to low rank compensation." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 2024.
+- Li, Liang, et al. "Norm tweaking: High-performance low-bit quantization of large language models." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 2024.
+- Heo, Jung Hwan, et al. "Rethinking channel dimensions to isolate outliers for low-bit weight quantization of large language models." arXiv preprint arXiv:2309.15531 (2023).
+- Liu, Jing, et al. "Qllm: Accurate and efficient low-bitwidth quantization for large language models." arXiv preprint arXiv:2310.08041 (2023).
