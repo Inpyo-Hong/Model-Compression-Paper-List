@@ -17,7 +17,7 @@
 - Hubara, Itay, et al. "Quantized neural networks: Training neural networks with low precision weights and activations." Journal of Machine Learning Research 18.187 (2018): 1-30.
 - Fan, Angela, et al. "Training with quantization noise for extreme model compression." arXiv preprint arXiv:2004.07320 (2020).
 - Gholami, Amir, et al. "A survey of quantization methods for efficient neural network inference." Low-Power Computer Vision. Chapman and Hall/CRC, 2022. 291-326.
-- Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
+
 
 ## Zero-Shot Quantization (Data-Free Quantization)
 - Nagel, Markus, et al. "Data-free quantization through weight equalization and bias correction." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
@@ -40,9 +40,8 @@
 ### Model Training (Zero-Shot Quantization)
 - Guo, Cong, et al. "Squant: On-the-fly data-free quantization via diagonal hessian approximation." arXiv preprint arXiv:2202.07471 (2022).
 - Choi, Kanghyun, et al. "It's all in the teacher: Zero-shot quantization brought closer to the teacher." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-- 
-
-
+- Shang, Yuzhang, et al. "Enhancing Post-training Quantization Calibration through Contrastive Learning." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
+- Li, Yuhang, et al. "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data." European Conference on Computer Vision. Springer, Cham, 2025.
 
 
 
@@ -58,3 +57,8 @@
 - Li, Liang, et al. "Norm tweaking: High-performance low-bit quantization of large language models." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 2024.
 - Heo, Jung Hwan, et al. "Rethinking channel dimensions to isolate outliers for low-bit weight quantization of large language models." arXiv preprint arXiv:2309.15531 (2023).
 - Liu, Jing, et al. "Qllm: Accurate and efficient low-bitwidth quantization for large language models." arXiv preprint arXiv:2310.08041 (2023).
+
+
+## Generative Model Quantization
+- Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
+- Dong, Zhenyuan, and Sai Qian Zhang. "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing." arXiv preprint arXiv:2409.07756 (2024). (WACV 2025 Accepted)
