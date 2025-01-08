@@ -57,6 +57,7 @@
 - Li, Liang, et al. "Norm tweaking: High-performance low-bit quantization of large language models." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 2024.
 - Heo, Jung Hwan, et al. "Rethinking channel dimensions to isolate outliers for low-bit weight quantization of large language models." arXiv preprint arXiv:2309.15531 (2023).
 - Liu, Jing, et al. "Qllm: Accurate and efficient low-bitwidth quantization for large language models." arXiv preprint arXiv:2310.08041 (2023).
+- Zhao, Weibo, et al. "ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization." arXiv preprint arXiv:2411.07762 (2024).(AAAI 2025 Accepted)
 
 
 ## Generative Model Quantization
