@@ -35,6 +35,7 @@
 - Qian, Biao, et al. "Adaptive data-free quantization." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.
 - Chen, Xinrui, et al. "TexQ: zero-shot network quantization with texture feature distribution calibration." Advances in Neural Information Processing Systems 36 (2024).
 - Bai, Jianhong, et al. "Robustness-Guided Image Synthesis for Data-Free Quantization." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 10. 2024.
+- Li, Yuhang, et al. "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024.
 
 
 ### Model Training (Zero-Shot Quantization)
@@ -42,6 +43,8 @@
 - Choi, Kanghyun, et al. "It's all in the teacher: Zero-shot quantization brought closer to the teacher." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
 - Shang, Yuzhang, et al. "Enhancing Post-training Quantization Calibration through Contrastive Learning." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
 - Li, Yuhang, et al. "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data." European Conference on Computer Vision. Springer, Cham, 2025.
+- Hong, Inpyo, et al. "Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing." arXiv preprint arXiv:2412.19125 (2024).
+- Kim, Minjun, et al. "SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning", The Thirteenth International Conference on Learning Representations (ICLR), 2025.
 
 
 
