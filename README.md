@@ -1,21 +1,28 @@
 # Model-Compression-Paper-List (Quantization)
 
 ## Model Compression
+- LeCun, Yann, John Denker, and Sara Solla. "Optimal brain damage." Advances in neural information processing systems 2 (1989).
 - Hinton, Geoffrey. "Distilling the Knowledge in a Neural Network." arXiv preprint arXiv:1503.02531 (2015).
 - Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
 - Han, Song, et al. "EIE: Efficient inference engine on compressed deep neural network." ACM SIGARCH Computer Architecture News 44.3 (2016): 243-254.
 - Zoph, B. "Neural architecture search with reinforcement learning." arXiv preprint arXiv:1611.01578 (2016).
+- Frankle, Jonathan, and Michael Carbin. "The lottery ticket hypothesis: Finding sparse, trainable neural networks." arXiv preprint arXiv:1803.03635 (2018).
 - Hubara, Itay, et al. "Quantized neural networks: Training neural networks with low precision weights and activations." Journal of Machine Learning Research 18.187 (2018): 1-30.
+- Liu, Zhuang, et al. "Rethinking the value of network pruning." arXiv preprint arXiv:1810.05270 (2018). 
 - Heo, Byeongho, et al. "A comprehensive overhaul of feature distillation." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
+
 
 ## Quantization
 - Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. "Binaryconnect: Training deep neural networks with binary weights during propagations." Advances in neural information processing systems 28 (2015).
 - Choi, Yoojin, Mostafa El-Khamy, and Jungwon Lee. "Towards the limit of network quantization." arXiv preprint arXiv:1612.01543 (2016).
 - Lin, Darryl, Sachin Talathi, and Sreekanth Annapureddy. "Fixed point quantization of deep convolutional networks." International conference on machine learning. PMLR, 2016.
 - Zhou, Shuchang, et al. "Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients." arXiv preprint arXiv:1606.06160 (2016).
+- Cheng, Yu, et al. "Model compression and acceleration for deep neural networks: The principles, progress, and challenges." IEEE Signal Processing Magazine 35.1 (2018): 126-136
 - Krishnamoorthi, Raghuraman. "Quantizing deep convolutional networks for efficient inference: A whitepaper." arXiv preprint arXiv:1806.08342 (2018).
 - Hubara, Itay, et al. "Quantized neural networks: Training neural networks with low precision weights and activations." Journal of Machine Learning Research 18.187 (2018): 1-30.
 - Fan, Angela, et al. "Training with quantization noise for extreme model compression." arXiv preprint arXiv:2004.07320 (2020).
+- Deng, Lei, et al. "Model compression and hardware acceleration for neural networks: A comprehensive survey." Proceedings of the IEEE 108.4 (2020): 485-532. 
+- Li, Yuhang, et al. "Brecq: Pushing the limit of post-training quantization by block reconstruction." arXiv preprint arXiv:2102.05426 (2021)
 - Gholami, Amir, et al. "A survey of quantization methods for efficient neural network inference." Low-Power Computer Vision. Chapman and Hall/CRC, 2022. 291-326.
 
 
