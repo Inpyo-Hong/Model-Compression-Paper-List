@@ -73,3 +73,9 @@
 ## Generative Model Quantization
 - Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
 - Dong, Zhenyuan, and Sai Qian Zhang. "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing." arXiv preprint arXiv:2409.07756 (2024). (WACV 2025 Accepted)
+- Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
+- Li, Xiuyu, et al. "Q-diffusion: Quantizing diffusion models." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
+- Sui, Yang, et al. "Bitsfusion: 1.99 bits weight quantization of diffusion model." arXiv preprint arXiv:2406.04333 (2024). (NeurIPS 2024)
+- Tang, Siao, et al. "Post-training Quantization for Text-to-Image Diffusion Models with Progressive Calibration and Activation Relaxing." arXiv preprint arXiv:2311.06322 (2023). (ECCV 2024)
+- Chen, Lei, et al. "Q-dit: Accurate post-training quantization for diffusion transformers." arXiv preprint arXiv:2406.17343 (2024). (CVPR 2025)
+- Li, Muyang, et al. "Svdqunat: Absorbing outliers by low-rank components for 4-bit diffusion models." arXiv preprint arXiv:2411.05007 (2024). (ICLR 2025)
