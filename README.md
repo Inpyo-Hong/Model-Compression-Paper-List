@@ -74,7 +74,6 @@
 
 ### Stable Diffusion (UNet)
 - Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
-- Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
 - Li, Xiuyu, et al. "Q-diffusion: Quantizing diffusion models." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
 - Sui, Yang, et al. "Bitsfusion: 1.99 bits weight quantization of diffusion model." arXiv preprint arXiv:2406.04333 (2024). (NeurIPS 2024)
 - Tang, Siao, et al. "Post-training Quantization for Text-to-Image Diffusion Models with Progressive Calibration and Activation Relaxing." arXiv preprint arXiv:2311.06322 (2023). (ECCV 2024)
