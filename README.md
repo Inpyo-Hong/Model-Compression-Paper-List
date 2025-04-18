@@ -67,15 +67,23 @@
 - Li, Liang, et al. "Norm tweaking: High-performance low-bit quantization of large language models." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 17. 2024.
 - Heo, Jung Hwan, et al. "Rethinking channel dimensions to isolate outliers for low-bit weight quantization of large language models." arXiv preprint arXiv:2309.15531 (2023).
 - Liu, Jing, et al. "Qllm: Accurate and efficient low-bitwidth quantization for large language models." arXiv preprint arXiv:2310.08041 (2023).
-- Zhao, Weibo, et al. "ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization." arXiv preprint arXiv:2411.07762 (2024).(AAAI 2025 Accepted) 
+- Zhao, Weibo, et al. "ASER: Activation Smoothing and Error Reconstruction for Large Language Model Quantization." arXiv preprint arXiv:2411.07762 (2024).(AAAI 2025) 
 
 
 ## Generative Model Quantization
+
+### Stable Diffusion (UNet)
 - Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
-- Dong, Zhenyuan, and Sai Qian Zhang. "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing." arXiv preprint arXiv:2409.07756 (2024). (WACV 2025 Accepted)
 - Shang, Yuzhang, et al. "Post-training quantization on diffusion models." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2023.
 - Li, Xiuyu, et al. "Q-diffusion: Quantizing diffusion models." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
 - Sui, Yang, et al. "Bitsfusion: 1.99 bits weight quantization of diffusion model." arXiv preprint arXiv:2406.04333 (2024). (NeurIPS 2024)
 - Tang, Siao, et al. "Post-training Quantization for Text-to-Image Diffusion Models with Progressive Calibration and Activation Relaxing." arXiv preprint arXiv:2311.06322 (2023). (ECCV 2024)
-- Chen, Lei, et al. "Q-dit: Accurate post-training quantization for diffusion transformers." arXiv preprint arXiv:2406.17343 (2024). (CVPR 2025)
 - Li, Muyang, et al. "Svdqunat: Absorbing outliers by low-rank components for 4-bit diffusion models." arXiv preprint arXiv:2411.05007 (2024). (ICLR 2025)
+
+### DiT (Diffusion Transformer)
+- Wu, Junyi, et al. "Ptq4dit: Post-training quantization for diffusion transformers." arXiv preprint arXiv:2405.16005 (2024). (NeurIPS 2024)
+- Deng, Juncan, et al. "Vq4dit: Efficient post-training vector quantization for diffusion transformers." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 15. 2025.
+- Dong, Zhenyuan, and Sai Qian Zhang. "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing." arXiv preprint arXiv:2409.07756 (2024). (WACV 2025 Accepted)
+- Zhao, Tianchen, et al. "Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation." arXiv preprint arXiv:2406.02540 (2024). (ICLR 2025 Accepted)
+- Chen, Lei, et al. "Q-dit: Accurate post-training quantization for diffusion transformers." arXiv preprint arXiv:2406.17343 (2024). (CVPR 2025 Accepted)
+
