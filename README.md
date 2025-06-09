@@ -1,4 +1,4 @@
-# Model-Compression-Paper-List (Quantization)
+# Model-Compression-Paper-List (Quantization) 
 
 ## Model Compression
 - LeCun, Yann, John Denker, and Sara Solla. "Optimal brain damage." Advances in neural information processing systems 2 (1989).
