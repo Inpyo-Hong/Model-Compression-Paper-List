@@ -78,11 +78,13 @@
 - Sui, Yang, et al. "Bitsfusion: 1.99 bits weight quantization of diffusion model." arXiv preprint arXiv:2406.04333 (2024). (NeurIPS 2024)
 - Tang, Siao, et al. "Post-training Quantization for Text-to-Image Diffusion Models with Progressive Calibration and Activation Relaxing." arXiv preprint arXiv:2311.06322 (2023). (ECCV 2024)
 - Li, Muyang, et al. "Svdqunat: Absorbing outliers by low-rank components for 4-bit diffusion models." arXiv preprint arXiv:2411.05007 (2024). (ICLR 2025)
+- Ryu, Hyogon, NaHyeon Park, and Hyunjung Shim. "Dgq: Distribution-aware group quantization for text-to-image diffusion models." arXiv preprint arXiv:2501.04304 (2025). (ICLR 2025)
 
 ### DiT (Diffusion Transformer)
 - Wu, Junyi, et al. "Ptq4dit: Post-training quantization for diffusion transformers." arXiv preprint arXiv:2405.16005 (2024). (NeurIPS 2024)
 - Deng, Juncan, et al. "Vq4dit: Efficient post-training vector quantization for diffusion transformers." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 15. 2025.
 - Dong, Zhenyuan, and Sai Qian Zhang. "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing." arXiv preprint arXiv:2409.07756 (2024). (WACV 2025 Accepted)
-- Zhao, Tianchen, et al. "Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation." arXiv preprint arXiv:2406.02540 (2024). (ICLR 2025 Accepted)
 - Chen, Lei, et al. "Q-dit: Accurate post-training quantization for diffusion transformers." arXiv preprint arXiv:2406.17343 (2024). (CVPR 2025 Accepted)
+- Zhao, Tianchen, et al. "Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation." arXiv preprint arXiv:2406.02540 (2024). (ICLR 2025 Accepted)
+
 
