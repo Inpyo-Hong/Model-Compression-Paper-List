@@ -85,6 +85,6 @@
 - Deng, Juncan, et al. "Vq4dit: Efficient post-training vector quantization for diffusion transformers." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 15. 2025.
 - Dong, Zhenyuan, and Sai Qian Zhang. "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing." arXiv preprint arXiv:2409.07756 (2024). (WACV 2025 Accepted)
 - Chen, Lei, et al. "Q-dit: Accurate post-training quantization for diffusion transformers." arXiv preprint arXiv:2406.17343 (2024). (CVPR 2025 Accepted)
-- Zhao, Tianchen, et al. "Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation." arXiv preprint arXiv:2406.02540 (2024). (ICLR 2025 Accepted)
+- Zhao, Tianchen, et al. "Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation." arXiv preprint arXiv:2406.02540 (2024). (ICLR 2025 Accepted) 
 
 
