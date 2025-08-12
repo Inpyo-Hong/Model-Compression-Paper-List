@@ -24,6 +24,7 @@
 - Deng, Lei, et al. "Model compression and hardware acceleration for neural networks: A comprehensive survey." Proceedings of the IEEE 108.4 (2020): 485-532. 
 - Li, Yuhang, et al. "Brecq: Pushing the limit of post-training quantization by block reconstruction." arXiv preprint arXiv:2102.05426 (2021)
 - Gholami, Amir, et al. "A survey of quantization methods for efficient neural network inference." Low-Power Computer Vision. Chapman and Hall/CRC, 2022. 291-326.
+- Lee, Junghyup, et al. "Scheduling Weight Transitions for Quantization-Aware Training." arXiv preprint arXiv:2404.19248 (2024). (ICCV 2025)
 
 
 ## Zero-Shot Quantization (Data-Free Quantization)
@@ -43,6 +44,8 @@
 - Chen, Xinrui, et al. "TexQ: zero-shot network quantization with texture feature distribution calibration." Advances in Neural Information Processing Systems 36 (2024).
 - Bai, Jianhong, et al. "Robustness-Guided Image Synthesis for Data-Free Quantization." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 38. No. 10. 2024.
 - Li, Yuhang, et al. "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2024.
+- Ramachandran, Akshat, et al. "OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models." arXiv preprint arXiv:2503.10959 (2025). (ICCV 2025)
+- Li, Changhao, et al. "Task-Specific Zero-shot Quantization-Aware Training for Object Detection." arXiv preprint arXiv:2507.16782 (2025). (ICCV 2025)
 
 
 ### Model Training (Zero-Shot Quantization)
@@ -52,6 +55,7 @@
 - Li, Yuhang, et al. "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data." European Conference on Computer Vision. Springer, Cham, 2025.
 - Hong, Inpyo, et al. "Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing." arXiv preprint arXiv:2412.19125 (2024).
 - Kim, Minjun, et al. "SynQ: Accurate Zero-shot Quantization by Synthesis-aware Fine-tuning", The Thirteenth International Conference on Learning Representations (ICLR), 2025.
+- Zhong, Yunshan, et al. "Semantic Alignment and Reinforcement for Data-Free Quantization of Vision Transformers" arXiv preprint arXiv:2412.16553 (2024). (ICCV 2025)
 
 
 
@@ -79,6 +83,9 @@
 - Tang, Siao, et al. "Post-training Quantization for Text-to-Image Diffusion Models with Progressive Calibration and Activation Relaxing." arXiv preprint arXiv:2311.06322 (2023). (ECCV 2024)
 - Li, Muyang, et al. "Svdqunat: Absorbing outliers by low-rank components for 4-bit diffusion models." arXiv preprint arXiv:2411.05007 (2024). (ICLR 2025)
 - Ryu, Hyogon, NaHyeon Park, and Hyunjung Shim. "Dgq: Distribution-aware group quantization for text-to-image diffusion models." arXiv preprint arXiv:2501.04304 (2025). (ICLR 2025)
+- Lee, Dongyeun, et al. "DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization." arXiv preprint arXiv:2507.12933 (2025). (ICCV 2025)
+- Wang, Haoxuan, et al. "Quest: Low-bit diffusion model quantization via efficient selective finetuning." arXiv preprint arXiv:2402.03666 (2024). (ICCV 2025)
+- Memory-Efficient Generative Models via Product Quantization (ICCV 2025, TBD)
 
 ### DiT (Diffusion Transformer)
 - Wu, Junyi, et al. "Ptq4dit: Post-training quantization for diffusion transformers." arXiv preprint arXiv:2405.16005 (2024). (NeurIPS 2024)
@@ -87,4 +94,9 @@
 - Chen, Lei, et al. "Q-dit: Accurate post-training quantization for diffusion transformers." arXiv preprint arXiv:2406.17343 (2024). (CVPR 2025 Accepted)
 - Zhao, Tianchen, et al. "Vidit-q: Efficient and accurate quantization of diffusion transformers for image and video generation." arXiv preprint arXiv:2406.02540 (2024). (ICLR 2025 Accepted) 
 
+
+## Vector Quantization
+- Kim, Youngeun, et al. "Task vector quantization for memory-efficient model merging." arXiv preprint arXiv:2503.06921 (2025). (ICCV 2025)
+- Li, Shuaiting, et al. "SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting." arXiv preprint arXiv:2503.08668 (2025). (ICCV 2025)
+- ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba (ICCV 2025)
 
