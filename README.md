@@ -98,5 +98,5 @@
 ## Vector Quantization
 - Kim, Youngeun, et al. "Task vector quantization for memory-efficient model merging." arXiv preprint arXiv:2503.06921 (2025). (ICCV 2025)
 - Li, Shuaiting, et al. "SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting." arXiv preprint arXiv:2503.08668 (2025). (ICCV 2025)
-- ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba (ICCV 2025)
+- Deng, Juncan, et al. "ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba." arXiv preprint arXiv:2503.09509 (2025). (ICCV 2025)
 
